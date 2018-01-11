@@ -1,4 +1,4 @@
-This code was originally pulled from https://github.com/sparkbox/passport-harvest, but because it is not supported and the NPM registry was deleted, this package is now hhosted and maintained here. Original author info has been maintained in the package.json file.
+This code was originally pulled from https://github.com/sparkbox/passport-harvest, but because it is not supported and the NPM registry was deleted, this package is now hosted and maintained here. Original author info has been maintained in the package.json file.
 
 # Passport-Harvest
 
