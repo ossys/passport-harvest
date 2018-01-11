@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/sparkbox/passport-harvest.git"
+    "url": "git://github.com/ossys/passport-harvest.git"
   },
   "bugs": {
-    "url": "http://github.com/sparkbox/passport-harvest/issues"
+    "url": "http://github.com/ossys/passport-harvest/issues"
   },
   "author": {
     "name": "Jeremy Mack",

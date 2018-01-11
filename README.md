@@ -1,4 +1,4 @@
-:warning: **NOTICE:** We're sorry to say that the needs we had when creating this no longer exist at [Sparkbox](http://seesparkbox.com).  We no longer intend to actively develop and support this passport strategy.  We do intend to sustain the repostory, so feel free to use the repo in your `package.json` dependencies.  We've tagged the only release, [0.1.0](https://github.com/sparkbox/passport-harvest/releases/tag/v0.1.0), which we recommend locking your project against, just in case.
+This code was originally pulled from https://github.com/sparkbox/passport-harvest, but because it is not supported and the NPM registry was deleted, this package is now hhosted and maintained here. Original author info has been maintained in the package.json file.
 
 # Passport-Harvest
 
